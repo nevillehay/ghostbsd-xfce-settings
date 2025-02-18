@@ -8,7 +8,7 @@
         <property name="image-style" type="empty"/>
         <property name="image-show" type="empty"/>
       </property>
-      <property name="monitorDP-2" type="empty">
+      <property name="monitoreDP-1" type="empty">
         <property name="workspace0" type="empty">
           <property name="last-image" type="string" value="/usr/local/share/backgrounds/ghostbsd/blue-layered-stripes.jpg"/>
         </property>
